@@ -6,7 +6,6 @@
 # Source code is licensed under MIT License
 # (for more details see LICENSE)
 # 
-
 import sys
 
 #
